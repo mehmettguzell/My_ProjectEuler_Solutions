@@ -1,2 +1,8 @@
-# My_ProjectEuler_Solutions
-I improve my algorithm skills with HackerRank ProjectEuler+ problems and share a new commit every day.
+# HackerRank ProjectEuler+ Solutions
+
+This repository contains my solutions to the Project Euler+ challenges on HackerRank.  
+The goal is to improve my problem-solving and algorithmic thinking by practicing daily.
+
+🔗 Challenge page: https://www.hackerrank.com/contests/projecteuler/challenges
+
+📌 Personal goal: I aim to solve problems every day without skipping.
